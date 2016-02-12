@@ -1,5 +1,5 @@
 organization := "com.github.jw3"
-name := "play-template"
+name := "example-play-swagger"
 version := "1.0"
 scalaVersion := "2.11.7"
 

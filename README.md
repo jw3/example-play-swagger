@@ -1,2 +1,2 @@
-Simple Play Template
+Example Play with Swagger
 -
